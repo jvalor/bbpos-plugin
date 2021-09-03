@@ -1,2 +1,2 @@
-# cap-ml
+# example-plugin
 plugin de prueba
