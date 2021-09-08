@@ -1,2 +1,2 @@
-# example-plugin
+# bbpos-plugin
 plugin de prueba
